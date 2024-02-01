@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "title": "John F. Kennedy",
+      "image": "https://s.yimg.com/ny/api/res/1.2/elu6fpi8MrR9MfQDt0U5qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2022-12/b8c52d50-7da1-11ed-a6ff-73be8b745bd7",
+      "date": "1960-06-21",
+      "description": "John F. Kennedy",
+      "id": "72557160-26a0-4950-a55b-6bab9cb1ced9"
+    },
+    {
       "title": "A new event",
       "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
       "date": "2022-10-01",
@@ -8,5 +15,16 @@
       "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "emmanuelibekwe7@gmail.com",
+      "password": "$2a$12$t1tXw.uBJrR23O6oaap02.dbEfZFN8kEaBoisDFAjEO5.CErThcS6",
+      "id": "f78e73f9-f701-42fe-95e2-f666f43e5d7c"
+    },
+    {
+      "email": "ibekweuchechukwu0@gmail.com",
+      "password": "$2a$12$DiVRz5fP2OAXgN1jDME4b.STEWIoMiEw3NPqtrczzj2mo.reeSCke",
+      "id": "0b27474b-e0ed-449e-bcac-495b99cc45d4"
+    }
+  ]
 }
